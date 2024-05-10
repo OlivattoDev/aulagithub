@@ -1,3 +1,3 @@
-# Este e um projeto do curso Git e Github Devsuperior
+# Este é um projeto do curso Git e Github do Devsuperior.
 
-Abracos
+Abraços!
